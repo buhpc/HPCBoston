@@ -1,0 +1,9 @@
+/home/qubuntu/Desktop/BUHPC/HPCBoston/StanderdizingIngrident/cnpy-master/CMakeFiles/install/strip.dir
+/home/qubuntu/Desktop/BUHPC/HPCBoston/StanderdizingIngrident/cnpy-master/CMakeFiles/install/local.dir
+/home/qubuntu/Desktop/BUHPC/HPCBoston/StanderdizingIngrident/cnpy-master/CMakeFiles/install.dir
+/home/qubuntu/Desktop/BUHPC/HPCBoston/StanderdizingIngrident/cnpy-master/CMakeFiles/cnpy-static.dir
+/home/qubuntu/Desktop/BUHPC/HPCBoston/StanderdizingIngrident/cnpy-master/CMakeFiles/cnpy.dir
+/home/qubuntu/Desktop/BUHPC/HPCBoston/StanderdizingIngrident/cnpy-master/CMakeFiles/list_install_components.dir
+/home/qubuntu/Desktop/BUHPC/HPCBoston/StanderdizingIngrident/cnpy-master/CMakeFiles/example1.dir
+/home/qubuntu/Desktop/BUHPC/HPCBoston/StanderdizingIngrident/cnpy-master/CMakeFiles/edit_cache.dir
+/home/qubuntu/Desktop/BUHPC/HPCBoston/StanderdizingIngrident/cnpy-master/CMakeFiles/rebuild_cache.dir
